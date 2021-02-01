@@ -30,7 +30,13 @@ To start the python server:
 yarn start-api
 ```
 
-To start the web server:
+Now, go to `localhost:5000` to see the production build.
+
+
+## Development version
+
+In addition to starting the python server, you need to start also start the 
+development web server:
 
 ```
 yarn start
@@ -38,4 +44,3 @@ yarn start
 
 Now go to `localhost:3000`
 
-> Note: you can just start the python server and connect to `localhost:5000` for the production build.
