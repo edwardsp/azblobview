@@ -18,6 +18,7 @@ you would like to expose.
 ## Build
 
 ```
+yarn install
 yarn build
 ```
 
@@ -29,10 +30,17 @@ To start the python server:
 yarn start-api
 ```
 
-To start the web server:
+Now, go to `localhost:5000` to see the production build.
+
+
+## Development version
+
+In addition to starting the python server, you need to start also start the 
+development web server:
 
 ```
 yarn start
 ```
 
 Now go to `localhost:3000`
+
