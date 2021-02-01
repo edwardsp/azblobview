@@ -37,3 +37,5 @@ yarn start
 ```
 
 Now go to `localhost:3000`
+
+> Note: you can just start the python server and connect to `localhost:5000` for the production build.
