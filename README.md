@@ -18,6 +18,7 @@ you would like to expose.
 ## Build
 
 ```
+yarn install
 yarn build
 ```
 
