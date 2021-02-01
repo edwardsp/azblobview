@@ -131,7 +131,7 @@ export default function AzBlobView() {
         </Toolbar>
       </AppBar>
       <main>
-        <Grid className={classes.content} container spacing={3}>
+        <Grid className={classes.content} spacing={3} container style={{ margin: 0, width: '100%', }}>
             <Grid item xs={3}>
                 <MaterialTable
                     icons={tableIcons}
